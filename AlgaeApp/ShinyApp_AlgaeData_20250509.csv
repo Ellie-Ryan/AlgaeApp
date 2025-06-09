@@ -1,0 +1,242 @@
+SampleID,CollectionDate,Location,Latitude,Longitude,SnowColor,CellDensity
+2024-8-12-CK-algae1,8/12/2024,Camp Kiser,48.81630987,-121.7593849,red,4511
+2024-8-12-CK-algae2,8/12/2024,Camp Kiser,48.8165618,-121.7593942,red,6144
+2024-8-12-CK-algae3,8/12/2024,Camp Kiser,48.81660346,-121.7594374,red,20671
+2024-8-12-CK-algae4,8/12/2024,Camp Kiser,48.81659306,-121.7595671,red,13298
+2024-8-12-CK-algae5,8/12/2024,Camp Kiser,48.81668639,-121.7595132,red,8181
+2024-8-12-CK-algae6,8/12/2024,Camp Kiser,48.81662289,-121.7593486,red,5909
+2024-8-12-CK-algae7,8/12/2024,Camp Kiser,48.81666816,-121.7593851,red,19645
+2024-8-12-CK-algae8,8/12/2024,Camp Kiser,48.81587518,-121.7608124,red,6127
+2024-8-12-CK-algae9,8/12/2024,Camp Kiser,48.81559079,-121.7606725,red,8568
+2024-8-12-CK-algae10,8/12/2024,Camp Kiser,48.81500655,-121.7611347,red,12962
+2024-8-12-CK-algae11,8/12/2024,Camp Kiser,48.81491741,-121.760998,red,10863
+2024-8-12-CK-algae12,8/12/2024,Camp Kiser,48.81486314,-121.7609674,red,6363
+2024-8-12-CK-algae13,8/12/2024,Camp Kiser,48.81485787,-121.7610606,red,21277
+2024-8-12-CK-algae14,8/12/2024,Camp Kiser,48.81485466,-121.7610492,red,11800
+2024-8-12-CK-algae15,8/12/2024,Camp Kiser,48.81475611,-121.7612802,red,9073
+2024-8-12-CK-algae16,8/12/2024,Camp Kiser,48.81412405,-121.7609705,red,8501
+2024-8-12-CK-algae17,8/12/2024,Camp Kiser,48.8141069,-121.7610466,red,31882
+2024-8-12-CK-algae18,8/12/2024,Camp Kiser,48.81411291,-121.7609751,red,23533
+2024-8-12-CK-algae19,8/12/2024,Camp Kiser,48.81400872,-121.7609889,red,17524
+2024-8-12-CK-algae20,8/12/2024,Camp Kiser,48.81398447,-121.7610104,red,4478
+2024-8-13-CK-algae21,8/13/2024,Camp Kiser,48.81497275,-121.7611025,red,28583
+2024-8-13-CK-algae22,8/13/2024,Camp Kiser,48.81494045,-121.7610649,red,44238
+2024-8-13-CK-algae23,8/13/2024,Camp Kiser,48.81490907,-121.7611108,red,29761
+2024-8-13-CK-algae24,8/13/2024,Camp Kiser,48.8148562,-121.7610503,red,29021
+2024-8-13-CK-algae25,8/13/2024,Camp Kiser,48.81487453,-121.76099,red,4814
+2024-8-13-CK-algae26,8/13/2024,Camp Kiser,48.81656911,-121.759007,algae-free,1162
+2024-8-13-CK-algae27,8/13/2024,Camp Kiser,48.81638488,-121.7602009,algae-free,2188
+2024-8-13-CK-algae28,8/13/2024,Camp Kiser,48.8162471,-121.7607746,algae-free,926
+2024-8-13-CK-algae29,8/13/2024,Camp Kiser,48.81612833,-121.7609847,algae-free,0
+2024-8-13-CK-algae30,8/13/2024,Camp Kiser,48.8158955,-121.7606754,algae-free,84
+2024-8-13-CK-algae31,8/13/2024,Camp Kiser,48.81569995,-121.7605075,algae-free,219
+2024-8-13-CK-algae32,8/13/2024,Camp Kiser,48.8155587,-121.7602773,algae-free,657
+2024-8-13-CK-algae33,8/13/2024,Camp Kiser,48.81533781,-121.7605931,algae-free,1364
+2024-8-13-CK-algae34,8/13/2024,Camp Kiser,48.81525518,-121.7612704,algae-free,387
+2024-8-13-CK-algae35,8/13/2024,Camp Kiser,48.8155053,-121.7614429,algae-free,185
+2024-8-13-CK-algae36,8/13/2024,Camp Kiser,48.8152147,-121.7624364,algae-free,269
+2024-8-13-CK-algae37,8/13/2024,Camp Kiser,48.81474141,-121.7617216,algae-free,724
+2024-8-13-CK-algae39,8/13/2024,Camp Kiser,48.81433794,-121.7616921,algae-free,185
+2024-8-13-CK-algae40,8/13/2024,Camp Kiser,48.81419316,-121.7619577,algae-free,51
+2024-8-13-CK-algae41,8/13/2024,Camp Kiser,48.81371654,-121.7616803,algae-free,67
+2024-8-13-CK-algae42,8/13/2024,Camp Kiser,48.81372372,-121.7616067,algae-free,0
+2024-8-13-CK-algae43,8/13/2024,Camp Kiser,48.81367727,-121.7616345,algae-free,387
+2024-8-13-CK-algae44,8/13/2024,Camp Kiser,48.81655542,-121.7592658,algae-free,2340
+2024-8-13-CK-algae45,8/13/2024,Camp Kiser,48.81647776,-121.7592552,algae-free,168
+2024-8-13-CK-algae46,8/13/2024,Camp Kiser,48.81487847,-121.7611394,red,29054
+2024-8-13-CK-algae47,8/13/2024,Camp Kiser,48.81446679,-121.7610556,red,7575
+2024-8-13-CK-algae48,8/13/2024,Camp Kiser,48.81486418,-121.7611876,red,11548
+2024-8-13-CK-algae49,8/13/2024,Camp Kiser,48.81480472,-121.7611575,red,44945
+2024-8-13-CK-algae50,8/13/2024,Camp Kiser,48.81388021,-121.7606472,red,10252
+2024-8-12-CK-algae51,8/12/2024,Camp Kiser,48.81610604,-121.759769,red,29997
+2024-8-12-CK-algae57,8/12/2024,Camp Kiser,48.81342448,-121.7616955,algae-free,14712
+2024-8-12-CK-algae58,8/12/2024,Camp Kiser,48.81339026,-121.7616494,algae-free,2138
+2024-8-12-CK-algae59,8/12/2024,Camp Kiser,48.81369921,-121.7618674,algae-free,21951
+2024-8-12-CK-algae60,8/12/2024,Camp Kiser,48.81375506,-121.7620671,algae-free,2525
+2024-8-12-CK-algae61,8/12/2024,Camp Kiser,48.81381757,-121.7621884,algae-free,690
+2024-8-12-CK-algae62,8/12/2024,Camp Kiser,48.81403746,-121.7618749,red,9864
+2024-8-12-CK-algae63,8/12/2024,Camp Kiser,48.81419519,-121.7608468,red,28819
+2024-8-12-CK-algae64,8/12/2024,Camp Kiser,48.81412261,-121.7609826,red,21446
+2024-8-12-CK-algae65,8/12/2024,Camp Kiser,48.81413125,-121.7610492,red,11716
+2024-8-12-CK-algae66,8/12/2024,Camp Kiser,48.81466926,-121.7611103,red,45450
+2024-8-12-CK-algae67,8/12/2024,Camp Kiser,48.8155044,-121.7622684,red,22776
+2024-8-12-CK-algae68,8/12/2024,Camp Kiser,48.81632295,-121.7605064,algae-free,67
+2024-8-12-CK-algae69,8/12/2024,Camp Kiser,48.81653258,-121.7602271,red,9376
+2024-8-12-CK-algae70,8/12/2024,Camp Kiser,48.81667381,-121.7601158,red,6599
+2024-8-12-CK-algae71,8/12/2024,Camp Kiser,48.81667277,-121.7594811,red,15335
+2024-8-12-CK-algae72,8/12/2024,Camp Kiser,48.81658008,-121.7592829,red,21984
+2024-8-12-CK-algae73,8/12/2024,Camp Kiser,48.81654956,-121.7593009,red,11969
+2024-8-12-CK-algae75,8/12/2024,Camp Kiser,48.81612422,-121.7598417,red,23634
+2024-8-12-CK-algae76,8/12/2024,Camp Kiser,48.81632946,-121.75986,red,42555
+2024-8-12-CK-algae77,8/12/2024,Camp Kiser,48.8163288,-121.7598568,red,64573
+2024-8-12-CK-algae78,8/12/2024,Camp Kiser,48.81632833,-121.7598548,red,13972
+2024-8-12-CK-algae79,8/12/2024,Camp Kiser,48.81632759,-121.759862,red,4124
+2024-8-12-CK-algae80,8/12/2024,Camp Kiser,48.81632585,-121.7598627,red,7053
+2024-8-12-CK-algae81,8/12/2024,Camp Kiser,48.81661165,-121.7594161,algae-free,3299
+2024-8-12-CK-algae82,8/12/2024,Camp Kiser,48.81660907,-121.7594141,red,5404
+2024-8-12-CK-algae83,8/12/2024,Camp Kiser,48.81660517,-121.7594098,red,3097
+2024-8-12-CK-algae84,8/12/2024,Camp Kiser,48.81660236,-121.7594072,red,4629
+2024-8-12-CK-algae85,8/12/2024,Camp Kiser,48.81659836,-121.7594002,red,7609
+2024-8-12-CK-algae86,8/12/2024,Camp Kiser,48.81666994,-121.7594843,red,13787
+2024-8-12-CK-algae87,8/12/2024,Camp Kiser,48.81614331,-121.7593908,red,41444
+2024-8-13-CK-algae88,8/13/2024,Camp Kiser,48.8157895,-121.760709,red,29997
+2024-8-13-CK-algae89,8/13/2024,Camp Kiser,48.81528454,-121.7613268,red,9629
+2024-8-13-CK-algae90,8/13/2024,Camp Kiser,48.81506527,-121.76121,red,17961
+2024-8-13-CK-algae91,8/13/2024,Camp Kiser,48.81509173,-121.7609005,red,2155
+2024-8-13-CK-algae92,8/13/2024,Camp Kiser,48.81517964,-121.7606706,red,4915
+2024-8-13-CK-algae93,8/13/2024,Camp Kiser,48.81523101,-121.7608891,red,29593
+2024-8-13-CK-algae94,8/13/2024,Camp Kiser,48.81534925,-121.7609667,red,16025
+2024-8-13-CK-algae95,8/13/2024,Camp Kiser,48.81563004,-121.7607262,red,6397
+2024-8-13-CK-algae96,8/13/2024,Camp Kiser,48.8157181,-121.7609068,red,16901
+2024-8-13-CK-algae97,8/13/2024,Camp Kiser,48.8159048,-121.7607426,red,18197
+2024-8-13-CK-algae98,8/13/2024,Camp Kiser,48.81359288,-121.7613713,red,6632
+2024-8-13-CK-algae99,8/13/2024,Camp Kiser,48.8138748,-121.7611076,red,7558
+2024-8-13-CK-algae100,8/13/2024,Camp Kiser,48.81390177,-121.7610794,red,14645
+2024-8-12-CK-algae101,8/13/2024,Camp Kiser,48.81394414,-121.7610419,red,21345
+2024-8-12-CK-algae102,8/13/2024,Camp Kiser,48.81401055,-121.7609876,red,12204
+2024-8-12-CK-algae103,8/13/2024,Camp Kiser,48.81407049,-121.7609347,red,20663
+2024-8-12-CK-algae104,8/13/2024,Camp Kiser,48.81413983,-121.7608577,red,5016
+2024-8-12-CK-algae105,8/13/2024,Camp Kiser,48.81394995,-121.7607532,red,14982
+2023-8-23-LC-algae1,8/23/2023,Lemon Creek Glacier,58.365245,-134.360759,algae-free,3394
+2023-8-23-LC-algae2,8/23/2023,Lemon Creek Glacier,58.366894,-134.360113,algae-free,6676
+2023-8-23-LC-algae3,8/23/2023,Lemon Creek Glacier,58.367561,-134.36052,algae-free,3670
+2023-8-23-LC-algae4,8/23/2023,Lemon Creek Glacier,58.366583,-134.357281,red,25957
+2023-8-23-LC-algae5,8/23/2023,Lemon Creek Glacier,58.366109,-134.357581,algae-free,6262
+2023-8-23-LC-algae6,8/23/2023,Lemon Creek Glacier,58.36666,-134.353733,red,8058
+2023-8-23-LC-algae7,8/23/2023,Lemon Creek Glacier,58.367326,-134.353054,red,69084
+2023-8-23-LC-algae8,8/23/2023,Lemon Creek Glacier,58.366473,-134.349711,algae-free,1656
+2023-8-23-LC-algae9,8/23/2023,Lemon Creek Glacier,58.364669,-134.352659,red,23466
+2023-8-23-LC-algae10,8/23/2023,Lemon Creek Glacier,58.364653,-134.356496,algae-free,8383
+2023-8-23-LC-algae11,8/23/2023,Lemon Creek Glacier,58.370121,-134.355217,algae-free,943
+2023-8-23-LC-algae12,8/23/2023,Lemon Creek Glacier,58.367151,-134.340015,algae-free,2693
+2023-8-23-LC-algae13,8/23/2023,Lemon Creek Glacier,58.36796,-134.338427,red,8080
+2023-8-23-LC-algae14,8/23/2023,Lemon Creek Glacier,58.363704,-134.34213,red,3569
+2023-8-23-LC-algae15,8/23/2023,Lemon Creek Glacier,58.364091,-134.353737,algae-free,1532
+2023-8-23-LC-algae16,8/23/2023,Lemon Creek Glacier,58.36366,-134.361872,algae-free,2020
+2023-8-24-LC-algae17,8/24/2023,Lemon Creek Glacier,58.372902,-134.337907,algae-free,3619
+2023-8-24-LC-algae18,8/24/2023,Lemon Creek Glacier,58.372259,-134.338526,red,2845
+2023-8-24-LC-algae19,8/24/2023,Lemon Creek Glacier,58.372672,-134.344596,red,6447
+2023-8-24-LC-algae20,8/24/2023,Lemon Creek Glacier,58.371045,-134.345242,algae-free,4612
+2023-8-24-LC-algae21,8/24/2023,Lemon Creek Glacier,58.370149,-134.344857,algae-free,6043
+2023-8-24-LC-algae22,8/24/2023,Lemon Creek Glacier,58.370113,-134.34743,algae-free,5269
+2023-8-24-LC-algae23,8/24/2023,Lemon Creek Glacier,58.369898,-134.349323,algae-free,724
+2023-8-24-LC-algae24,8/24/2023,Lemon Creek Glacier,58.370853,-134.350767,red,15386
+2023-8-24-LC-algae25,8/24/2023,Lemon Creek Glacier,58.371774,-134.352674,algae-free,1986
+2023-8-24-LC-algae26,8/24/2023,Lemon Creek Glacier,58.363088,-134.356918,red,13686
+2023-8-24-LC-algae27,8/24/2023,Lemon Creek Glacier,58.362613,-134.357149,red,8349
+2023-8-24-LC-algae28,8/24/2023,Lemon Creek Glacier,58.360915,-134.35171,algae-free,707
+2023-8-24-LC-algae29,8/24/2023,Lemon Creek Glacier,58.362939,-134.349691,algae-free,320
+2023-8-24-LC-algae30,8/24/2023,Lemon Creek Glacier,58.36236781,-134.3557705,red,349258
+2023-8-24-LC-algae31,8/24/2023,Lemon Creek Glacier,58.3623368,-134.355794,red,138152
+2023-8-24-LC-algae32,8/24/2023,Lemon Creek Glacier,58.36221304,-134.3555946,red,267953
+2023-8-24-LC-algae33,8/24/2023,Lemon Creek Glacier,58.36216446,-134.3556537,red,302369
+2023-8-24-LC-algae34,8/24/2023,Lemon Creek Glacier,58.36216351,-134.3555242,red,40720
+2023-8-24-LC-algae35,8/24/2023,Lemon Creek Glacier,58.36217764,-134.3552129,red,352153
+2023-8-24-LC-algae36,8/24/2023,Lemon Creek Glacier,58.36205116,-134.3549763,red,90004
+2023-8-24-LC-algae37,8/24/2023,Lemon Creek Glacier,58.3619559,-134.3548812,red,144935
+2023-8-24-LC-algae38,8/24/2023,Lemon Creek Glacier,58.36198771,-134.3547865,red,174754
+2023-8-24-LC-algae39,8/24/2023,Lemon Creek Glacier,58.36195065,-134.3546386,red,44137
+2023-8-24-LC-algae40,8/24/2023,Lemon Creek Glacier,58.36196387,-134.3545247,red,141992
+2023-8-24-LC-algae41,8/24/2023,Lemon Creek Glacier,58.36192722,-134.3544284,red,172407
+2023-8-24-LC-algae42,8/24/2023,Lemon Creek Glacier,58.36197476,-134.354343,red,128119
+2023-8-24-LC-algae43,8/24/2023,Lemon Creek Glacier,58.36204659,-134.3543088,red,398546
+2023-8-24-LC-algae44,8/24/2023,Lemon Creek Glacier,58.36211804,-134.3540873,red,177878
+2023-8-24-LC-algae45,8/24/2023,Lemon Creek Glacier,58.36210359,-134.3540362,red,110961
+2023-8-24-LC-algae46,8/24/2023,Lemon Creek Glacier,58.36219779,-134.3540664,red,70456
+2023-8-24-LC-algae47,8/24/2023,Lemon Creek Glacier,58.36224073,-134.3540718,red,211730
+2023-8-24-LC-algae48,8/24/2023,Lemon Creek Glacier,58.36225164,-134.3541003,red,294743
+2023-8-24-LC-algae49,8/24/2023,Lemon Creek Glacier,58.36227285,-134.3541883,red,87466
+2023-8-24-LC-algae50,8/24/2023,Lemon Creek Glacier,58.36232201,-134.3542728,red,200586
+2023-8-24-LC-algae51,8/24/2023,Lemon Creek Glacier,58.36233359,-134.3542792,red,158051
+2023-8-24-LC-algae52,8/24/2023,Lemon Creek Glacier,58.36244553,-134.3543341,red,326584
+2023-8-24-LC-algae53,8/24/2023,Lemon Creek Glacier,58.36244165,-134.3542506,red,672155
+2023-8-24-LC-algae54,8/24/2023,Lemon Creek Glacier,58.36256648,-134.3545325,red,271286
+2023-8-24-LC-algae55,8/24/2023,Lemon Creek Glacier,58.36256601,-134.3547498,red,250547
+2023-8-24-LC-algae56,8/24/2023,Lemon Creek Glacier,58.36271253,-134.3550275,red,226947
+2023-8-24-LC-algae57,8/24/2023,Lemon Creek Glacier,58.36268351,-134.3551732,red,247955
+2023-8-24-LC-algae58,8/24/2023,Lemon Creek Glacier,58.36251937,-134.3552284,red,139885
+2023-8-24-LC-algae59,8/24/2023,Lemon Creek Glacier,58.3624741,-134.3551879,red,265933
+2025-02-16-PC-algae1,2/16/2025,Antarctic Peninsula,-62.93738,-60.5945,algae-free,
+2025-02-16-PC-algae2,2/16/2025,Antarctic Peninsula,-62.9371,-60.59389,algae-free,
+2025-02-16-PC-algae3,2/16/2025,Antarctic Peninsula,-62.93453,-60.5951,algae-free,
+2025-02-19-SI-algae1,2/19/2025,Antarctic Peninsula,-68.18545,-66.99881,algae-free,
+2025-02-19-SI-algae2,2/19/2025,Antarctic Peninsula,-68.18539,-66.99913,red,
+2025-02-19-SI-algae3,2/19/2025,Antarctic Peninsula,-68.18518,-67.0023,green,
+2025-02-19-SI-algae4,2/19/2025,Antarctic Peninsula,-68.18455,-67.00294,red,
+2025-02-19-SI-algae5,2/19/2025,Antarctic Peninsula,-68.18422,-66.99993,algae-free,
+2025-02-19-SI-algae6,2/19/2025,Antarctic Peninsula,-68.1855,-66.99638,green,
+2025-02-19-SI-algae7,2/19/2025,Antarctic Peninsula,-68.18575,-66.99792,green,
+2025-02-21-HI-algae1,2/21/2025,Antarctic Peninsula,-67.8087,-67.29562,red,
+2025-02-21-HI-algae2,2/21/2025,Antarctic Peninsula,-67.80874,-67.29564,green,
+2025-02-21-HI-algae3,2/21/2025,Antarctic Peninsula,-67.80849,-67.29615,red,
+2025-02-21-HI-algae4,2/21/2025,Antarctic Peninsula,-67.80883,-67.29847,green,
+2025-02-21-HI-algae5,2/21/2025,Antarctic Peninsula,-67.80999,-67.29809,green,
+2025-02-21-HI-algae6,2/21/2025,Antarctic Peninsula,-67.81003,-67.29809,red,
+2025-02-21-HI-algae7,2/21/2025,Antarctic Peninsula,-67.81004,-67.29818,algae-free,
+2025-02-21-HI-algae8,2/21/2025,Antarctic Peninsula,-67.81032,-67.29829,red,
+2025-02-21-HI-algae9,2/21/2025,Antarctic Peninsula,-67.81031,-67.29822,algae-free,
+2025-02-23-DP-algae1,2/23/2025,Antarctic Peninsula,-64.81563,-63.50404,red,
+2025-02-23-DP-algae2,2/23/2025,Antarctic Peninsula,-64.81464,-63.50422,red,
+2025-02-23-DP-algae3,2/23/2025,Antarctic Peninsula,-64.8152,-63.50433,green,
+2025-02-23-DP-algae4,2/23/2025,Antarctic Peninsula,-64.8152,-63.50451,algae-free,
+2025-02-23-DP-algae5,2/23/2025,Antarctic Peninsula,-64.81529,-63.50492,red,
+2025-02-23-DP-algae6,2/23/2025,Antarctic Peninsula,-64.81529,-63.50492,green,
+2025-02-23-DP-algae7,2/23/2025,Antarctic Peninsula,-65.8154,-63.50492,red,
+2025-02-23-DP-algae8,2/23/2025,Antarctic Peninsula,-63.8154,-63.50499,green,
+2025-02-23-DP-algae9,2/23/2025,Antarctic Peninsula,-64.81598,-63.50537,algae-free,
+2025-02-23-DP-algae10,2/23/2025,Antarctic Peninsula,-64.81611,-63.5056,red,
+2025-02-23-DP-algae11,2/23/2025,Antarctic Peninsula,-64.81671,-63.50529,green,
+2025-02-24-DA-algae1,2/24/2025,Antarctic Peninsula,-64.7295,-62.60036,green,
+2025-02-24-DA-algae2,2/24/2025,Antarctic Peninsula,-64.72946,-62.59961,red,
+2025-02-24-DA-algae3,2/24/2025,Antarctic Peninsula,-64.73044,-62.59956,red,
+2025-02-24-DA-algae4,2/24/2025,Antarctic Peninsula,-64.72988,-62.59895,green,
+2025-02-24-DA-algae5,2/24/2025,Antarctic Peninsula,-64.73,-62.59862,red,
+2025-02-24-DA-algae6,2/24/2025,Antarctic Peninsula,-64.73023,-62.59771,green,
+2025-02-24-DA-algae7,2/24/2025,Antarctic Peninsula,-64.73031,-62.59599,algae-free,
+2025-02-25-OH-algae1,2/25/2025,Antarctic Peninsula,-64.63165,-62.55229,green,
+2025-02-25-OH-algae2,2/25/2025,Antarctic Peninsula,-64.63128,-62.55244,green,
+2025-02-25-OH-algae3,2/25/2025,Antarctic Peninsula,-64.63131,-62.55249,red,
+2025-02-25-OH-algae4,2/25/2025,Antarctic Peninsula,-64.63137,-62.55247,algae-free,
+2025-03-04-PI-algae1,3/4/2025,Antarctic Peninsula,-65.09992,-64.05026,red,
+2025-03-04-PI-algae2,3/4/2025,Antarctic Peninsula,-65.09989,-64.05064,green,
+2025-03-04-PI-algae3,3/4/2025,Antarctic Peninsula,-65.09979,-64.04865,green,
+2025-03-04-PI-algae4,3/4/2025,Antarctic Peninsula,-65.09989,-64.04892,algae-free,
+2025-03-04-PI-algae5,3/4/2025,Antarctic Peninsula,-65.09994,-64.04897,red,
+2025-03-04-PI-algae6,3/4/2025,Antarctic Peninsula,-65.10005,-64.04859,green,
+2025-03-05-DP-algae1,3/5/2025,Antarctic Peninsula,-64.81596,-63.5044,red,
+2025-03-05-DP-algae2,3/5/2025,Antarctic Peninsula,-64.81531,-63.50457,green,
+2025-03-05-DP-algae3,3/5/2025,Antarctic Peninsula,-64.81522,-63.50466,green,
+2025-03-05-DP-algae4,3/5/2025,Antarctic Peninsula,-64.8151,-63.50459,red,
+2025-03-05-DP-algae5,3/5/2025,Antarctic Peninsula,-64.81534,-63.50828,algae-free,
+2025-03-05-DP-algae6,3/5/2025,Antarctic Peninsula,-64.81485,-63.50871,green,
+2025-03-05-DP-algae7,3/5/2025,Antarctic Peninsula,-64.81666,-63.50599,red,
+2025-03-06-OH-algae1,3/6/2025,Antarctic Peninsula,-64.63179,-62.55252,green,
+2025-03-06-OH-algae2,3/6/2025,Antarctic Peninsula,-64.6318,-62.55257,red,
+2025-03-06-OH-algae3,3/6/2025,Antarctic Peninsula,-64.63178,-62.55273,red,
+2025-03-06-OH-algae4,3/6/2025,Antarctic Peninsula,-64.63155,-62.55252,green,
+2025-03-06-OH-algae5,3/6/2025,Antarctic Peninsula,-64.63155,-62.55241,algae-free,
+2025-03-07-NH-algae1,3/7/2025,Antarctic Peninsula,-64.84492,-62.52719,green,
+2025-03-07-NH-algae2,3/7/2025,Antarctic Peninsula,-64.84514,-62.5301,algae-free,
+2025-03-07-NH-algae3,3/7/2025,Antarctic Peninsula,-64.84514,-62.53061,algae-free,
+2025-3-14-PNI-algae1,3/14/2025,Antarctic Peninsula,-65.10127,-64.05016,green,
+2025-3-14-PNI-algae2,3/14/2025,Antarctic Peninsula,-65.10121,-64.04994,green,
+2025-3-14-PNI-algae3,3/14/2025,Antarctic Peninsula,-65.10115,-64.05106,green,
+2025-3-14-PNI-algae4,3/14/2025,Antarctic Peninsula,-65.10096,-64.05178,green,
+2025-3-14-PNI-algae5,3/14/2025,Antarctic Peninsula,-65.10034,-64.04878,green,
+2025-3-14-PNI-algae6,3/14/2025,Antarctic Peninsula,-65.10027,-64.04906,algae-free,
+2025-3-14-PNI-algae7,3/14/2025,Antarctic Peninsula,-65.10021,-64.04852,green,
+2025-3-14-PNI-algae8,3/14/2025,Antarctic Peninsula,-65.09995,-64.04896,red,
+2025-3-15-DP-algae1,3/15/2025,Antarctic Peninsula,-64.81759,-63.50373,red,
+2025-3-15-DP-algae2,3/15/2025,Antarctic Peninsula,-64.81727,-63.30544,red,
+2025-3-15-DP-algae3,3/15/2025,Antarctic Peninsula,-64.8172,-63.50681,algae-free,
+2025-3-15-DP-algae4,3/15/2025,Antarctic Peninsula,-64.81717,-63.50692,algae-free,
+2025-3-15-DP-algae5,3/15/2025,Antarctic Peninsula,-64.81726,-63.50746,red,
+2025-3-15-DP-algae6,3/15/2025,Antarctic Peninsula,-64.81674,-63.50619,red,
+2025-3-15-DP-algae7,3/15/2025,Antarctic Peninsula,-64.81668,-63.50583,green,
+2025-3-15-DP-algae8,3/15/2025,Antarctic Peninsula,-64.81481,-63.50442,red,
+2025-3-15-DP-algae9,3/15/2025,Antarctic Peninsula,-64.8149,-63.50391,red,
+2025-3-15-DP-algae10,3/15/2025,Antarctic Peninsula,-64.81508,-63.50348,red,
+2025-3-16-NH-algae1,3/16/2025,Antarctic Peninsula,-64.84504,-62.52899,red,
+2025-3-16-NH-algae2,3/16/2025,Antarctic Peninsula,-64.84496,-62.52764,red,
+2025-3-16-NH-algae3,3/16/2025,Antarctic Peninsula,-64.84508,-62.52747,red,
+2025-3-16-NH-algae4,3/16/2025,Antarctic Peninsula,-64.8448,-62.52658,algae-free,

@@ -1,0 +1,4 @@
+- source: ShinyTutorial_RyanENVS521.qmd
+  quarto-pub:
+    - id: ed8b9e57-31c9-4997-899a-ac00faaf95e4
+      url: https://ellie-ryan.quarto.pub/creating-shiny-web-maps-in-r

@@ -1,0 +1,12 @@
+name: algaeapp
+title:
+username: ellie-ryan
+account: ellie-ryan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14723962
+bundleId: 10424879
+url: https://ellie-ryan.shinyapps.io/algaeapp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
